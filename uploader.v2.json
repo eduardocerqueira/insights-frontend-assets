@@ -1,6 +1,11 @@
 {
     "commands": [
         {
+            "command": "/usr/bin/paws provision",
+            "pattern": [],
+            "symbolic_name": "paws"
+        },
+        {
             "command": "/sbin/blkid -c /dev/null",
             "pattern": [],
             "symbolic_name": "blkid"
