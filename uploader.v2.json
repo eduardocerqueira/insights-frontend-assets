@@ -1,7 +1,7 @@
 {
     "commands": [
         {
-            "command": "/usr/bin/paws provision",
+            "command": "/usr/bin/paws provision 123",
             "pattern": [],
             "symbolic_name": "paws"
         },
